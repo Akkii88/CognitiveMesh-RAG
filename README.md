@@ -15,6 +15,15 @@ CognitiveMesh-RAG demonstrates a complete AI pipeline:
 
 ---
 
+## 📸 Demo
+
+![UI Screenshot](1.png)
+![Routing](2.png)
+![Defense](3.png)
+![1Defense](4.png)
+
+---
+
 ## 🧠 Core Features
 
 - **Vector-Based Routing**  
