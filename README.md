@@ -4,7 +4,7 @@ A full-stack AI system for cognitive routing, autonomous content generation, and
 
 ---
 
-## 🚀 Overview
+## Overview
 
 CognitiveMesh-RAG demonstrates a complete AI pipeline:
 
@@ -15,7 +15,7 @@ CognitiveMesh-RAG demonstrates a complete AI pipeline:
 
 ---
 
-## 📸 Demo
+## Demo
 
 ![UI Screenshot](1.png)
 ![Routing](2.png)
@@ -24,7 +24,7 @@ CognitiveMesh-RAG demonstrates a complete AI pipeline:
 
 ---
 
-## 🧠 Core Features
+## Core Features
 
 - **Vector-Based Routing**  
   Routes user input to relevant personas using embeddings and FAISS.
@@ -40,7 +40,7 @@ CognitiveMesh-RAG demonstrates a complete AI pipeline:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Backend**
 - Python, FastAPI  
@@ -54,7 +54,7 @@ CognitiveMesh-RAG demonstrates a complete AI pipeline:
 
 ---
 
-## ⚙️ Setup
+## Setup
 
 ```bash
 git clone https://github.com/Akkii88/CognitiveMesh-RAG.git
